@@ -1,0 +1,11 @@
+name: env_gridworld
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.6
+  - numpy
+  - matplotlib
+  - pylab
+  - enum
+  - tqdm
+  - unittest
